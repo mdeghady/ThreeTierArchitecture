@@ -1,6 +1,6 @@
 # ThreeTiesrArchitecture
 
-![project infrastructure](Infrastructure.png)
+<image src="Infrastructure.png" align="center">
 
 In this project I tried to practice terraform by building a  Three Tier Architecture on AWS.
 
